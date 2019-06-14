@@ -1,0 +1,36 @@
+{
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"default_line_ending": "unix",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"/home/irh/mount/*"
+	],
+	"material_theme_accent_scrollbars": true,
+	"material_theme_bold_tab": true,
+	"material_theme_bright_scrollbars": true,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_separator": true,
+	"spell_check": true,
+	"tabSize": 4,
+	"tab_completion": false,
+	"theme": "Agila Cobalt.sublime-theme",
+	"translateTabsToSpaces": false,
+	"font_face": "Fira Code Retina",
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"highlight_line": 14,
+	"bold_folder_labels": true,
+	"rulers": [80, 120],
+	"tab_size": 4
+}

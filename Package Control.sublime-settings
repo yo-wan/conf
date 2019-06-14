@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Agila Theme",
+		"All Autocomplete",
+		"ayu",
+		"BracketHighlighter",
+		"CodeIgniter Utilities",
+		"DocBlockr",
+		"Dracula Color Scheme",
+		"Function Name Display",
+		"Glue",
+		"GotoDocumentation",
+		"Material Theme",
+		"Material Theme - White Panels",
+		"MoveText",
+		"Package Control",
+		"Phpcs",
+		"PhpDoc",
+		"SideBarEnhancements",
+		"Skins",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Theme - Cobalt2",
+		"Theme - SoDaReloaded",
+		"Theme - Sodarized",
+		"Wolf Theme"
+	]
+}
