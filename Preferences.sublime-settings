@@ -1,7 +1,10 @@
 {
-	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"always_prompt_for_file_reload": true,
+	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
 	"default_line_ending": "unix",
-	"font_size": 10,
+	"detect_indentation": false,
+	"font_size": 11,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -11,6 +14,8 @@
 		"*.log",
 		"/home/irh/mount/*"
 	],
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
 	"material_theme_accent_scrollbars": true,
 	"material_theme_bold_tab": true,
 	"material_theme_bright_scrollbars": true,
@@ -21,16 +26,16 @@
 	"material_theme_small_tab": true,
 	"material_theme_tabs_autowidth": true,
 	"material_theme_tabs_separator": true,
+	"remember_full_screen": true,
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": true,
 	"spell_check": true,
 	"tabSize": 4,
 	"tab_completion": false,
-	"theme": "Agila Cobalt.sublime-theme",
+	"theme": "ayu-mirage.sublime-theme",
 	"translateTabsToSpaces": false,
-	"font_face": "Fira Code Retina",
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
-	"highlight_line": 14,
-	"bold_folder_labels": true,
-	"rulers": [80, 120],
-	"tab_size": 4
+	"translate_spaces_to_tabs": true
 }
