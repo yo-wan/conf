@@ -1,0 +1,2 @@
+https://github.com/postmanlabs/newman
+https://github.com/quii/learn-go-with-tests
